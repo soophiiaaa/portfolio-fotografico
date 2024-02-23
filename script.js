@@ -1,15 +1,3 @@
-/* document.getElementsByClassName('photograph').addEventListener('mousenter', function(event) {
-   let texto = document.getElementByClassName('text-photograph');
-   texto.style.display = 'block'
-   texto.style.transition = '.2s'
-   texto.style.textAlign = 'left'
-});
-
-area.addEventListener('mouseout', function(event) {
-   let texto = document.getElementByClassName('text-photograph');
-   texto.style.display = 'block'
-}); */
-
 /* Menu respondivo */
 
 let header = document.getElementById('header');
